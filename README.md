@@ -1,4 +1,4 @@
-# OBS Overlay Kill
+# Twitch API Template
 
 React + TypeScript + Vite で構築されたプロジェクトです。Twitch APIを使用してユーザー情報やストリーム情報を取得できます。
 
